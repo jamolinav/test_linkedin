@@ -28,13 +28,12 @@ time.sleep(2)
 btn_iniciar_sesion = '/html/body/div/main/div[2]/form/div[3]/button'
 wait(browser, 60).until(EC.element_to_be_clickable((By.XPATH, btn_iniciar_sesion)))
 
-'''
-browser.find_element_by_id('username').send_keys('')
+browser.find_element_by_id('username').send_keys('Atencioncliente@zigma.cl')
 time.sleep(2)
-browser.find_element_by_id('password').send_keys('')
+browser.find_element_by_id('password').send_keys('diagonal1374')
 time.sleep(2)
 browser.find_element_by_xpath(btn_iniciar_sesion).click()
-'''
+
 #/html/body/div[7]/header/div[2]/div/div/div[1]/div[1]/input
 #/html/body/div[8]/header/div[2]/div/div/div[1]/div/input
 

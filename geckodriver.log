@@ -201,3 +201,35 @@ JavaScript warning: https://static-exp1.licdn.com/sc/h/br/8ahrj4ssfil4clfbla970v
 JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
 JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
 1606679566957	Marionette	INFO	Stopped listening on port 64485
+1606681436777	geckodriver	INFO	Listening on 127.0.0.1:64817
+1606681437794	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wv/h2__2b1x72v2mlyybzp3l72r0000gn/T/rust_mozprofilexNIqHT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606681440132	Marionette	INFO	Listening on port 64828
+1606681440168	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606681455944	Marionette	INFO	Stopped listening on port 64828
+1606681943880	geckodriver	INFO	Listening on 127.0.0.1:50848
+1606681944893	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wv/h2__2b1x72v2mlyybzp3l72r0000gn/T/rust_mozprofilegrmWyp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606681947275	Marionette	INFO	Listening on port 50859
+1606681947362	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1606682278200	geckodriver	INFO	Listening on 127.0.0.1:54021
+1606682279215	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wv/h2__2b1x72v2mlyybzp3l72r0000gn/T/rust_mozprofileVlzsFP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606682281523	Marionette	INFO	Listening on port 54032
+1606682281603	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/8ahrj4ssfil4clfbla970vd53, line 17644: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/7nrxatwuo4eimqxc2ul4ltmus, line 2547: unreachable code after return statement
+JavaScript error: https://static-exp1.licdn.com/sc/h/br/8ahrj4ssfil4clfbla970vd53, line 1287: TypeError: Network request failed
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/8ahrj4ssfil4clfbla970vd53, line 17644: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+JavaScript error: https://static-exp1.licdn.com/sc/h/br/2p04274v4btc9m0bubd707hxf, line 6106: uncaught exception: Object
