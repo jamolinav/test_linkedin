@@ -1,0 +1,203 @@
+1606611760939	geckodriver	INFO	Listening on 127.0.0.1:61287
+1606611761536	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wv/h2__2b1x72v2mlyybzp3l72r0000gn/T/rust_mozprofilecyOjHd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606611766934	Marionette	INFO	Listening on port 61299
+1606611778847	geckodriver	INFO	Listening on 127.0.0.1:61324
+1606611778858	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wv/h2__2b1x72v2mlyybzp3l72r0000gn/T/rust_mozprofileKBMmJi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606611780818	Marionette	INFO	Listening on port 61333
+1606611780932	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1606611818544	geckodriver	INFO	Listening on 127.0.0.1:61405
+1606611818557	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wv/h2__2b1x72v2mlyybzp3l72r0000gn/T/rust_mozprofilePlaX3s"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606611820705	Marionette	INFO	Listening on port 61414
+1606611820733	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/8ahrj4ssfil4clfbla970vd53, line 17644: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+1606611897311	geckodriver	INFO	Listening on 127.0.0.1:61554
+1606611898327	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wv/h2__2b1x72v2mlyybzp3l72r0000gn/T/rust_mozprofilelbHALt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606611900489	Marionette	INFO	Listening on port 61565
+1606611900591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606611904168	Marionette	INFO	Stopped listening on port 61565
+1606611909269	Marionette	INFO	Stopped listening on port 61414
+1606611914191	Marionette	INFO	Stopped listening on port 61333
+1606611919620	Marionette	INFO	Stopped listening on port 61299
+1606611957272	geckodriver	INFO	Listening on 127.0.0.1:61636
+1606611957282	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wv/h2__2b1x72v2mlyybzp3l72r0000gn/T/rust_mozprofileR4FkKP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606611959172	Marionette	INFO	Listening on port 61645
+1606611959250	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/8ahrj4ssfil4clfbla970vd53, line 17644: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1085"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1085:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:911:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1085, column: 0
+console.error: ({})
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1085"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1085:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:911:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1085, column: 0
+console.error: ({})
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/8ahrj4ssfil4clfbla970vd53, line 17644: unreachable code after return statement
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsISiteSecurityService.isSecureURI]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/webconsole/network-helper.js :: parseSecurityInfo :: line 674"  data: no]
+Stack: parseSecurityInfo@resource://devtools/shared/webconsole/network-helper.js:674:25
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/server/actors/network-monitor/network-response-listener.js:336:32
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+onStartRequest@resource://devtools/server/actors/network-monitor/network-response-listener.js:230:10
+observe@resource://gre/modules/AsyncShutdown.jsm:554:16
+Line: 674, column: 0
+console.error: ({})
+1606612269713	Marionette	INFO	Stopped listening on port 61645
+1606612289285	geckodriver	INFO	Listening on 127.0.0.1:61797
+1606612290303	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wv/h2__2b1x72v2mlyybzp3l72r0000gn/T/rust_mozprofileB6jH3U"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606612292245	Marionette	INFO	Listening on port 61808
+1606612292262	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/8ahrj4ssfil4clfbla970vd53, line 17644: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/8ahrj4ssfil4clfbla970vd53, line 17644: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+1606612393846	Marionette	INFO	Stopped listening on port 61808
+1606612397529	geckodriver	INFO	Listening on 127.0.0.1:61925
+1606612397539	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wv/h2__2b1x72v2mlyybzp3l72r0000gn/T/rust_mozprofilexE9H21"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606612399450	Marionette	INFO	Listening on port 61934
+1606612399502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/8ahrj4ssfil4clfbla970vd53, line 17644: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1085"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1085:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:911:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1085, column: 0
+console.error: ({})
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/8ahrj4ssfil4clfbla970vd53, line 17644: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1606612559435	geckodriver	INFO	Listening on 127.0.0.1:62053
+1606612559446	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wv/h2__2b1x72v2mlyybzp3l72r0000gn/T/rust_mozprofilePRTP05"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606612561373	Marionette	INFO	Listening on port 62062
+1606612561402	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+1606612969492	geckodriver	INFO	Listening on 127.0.0.1:62151
+1606612969502	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wv/h2__2b1x72v2mlyybzp3l72r0000gn/T/rust_mozprofilexDHp6Q"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606612971510	Marionette	INFO	Listening on port 62160
+1606612971572	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606613008874	geckodriver	INFO	Listening on 127.0.0.1:62221
+1606613008885	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wv/h2__2b1x72v2mlyybzp3l72r0000gn/T/rust_mozprofilez72w1v"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606613010794	Marionette	INFO	Listening on port 62230
+1606613010857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/8ahrj4ssfil4clfbla970vd53, line 17644: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/8ahrj4ssfil4clfbla970vd53, line 17644: unreachable code after return statement
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1606613114690	geckodriver	INFO	Listening on 127.0.0.1:62351
+1606613114704	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wv/h2__2b1x72v2mlyybzp3l72r0000gn/T/rust_mozprofileHCfRmb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606613116663	Marionette	INFO	Listening on port 62360
+1606613116764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/8ahrj4ssfil4clfbla970vd53, line 17644: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+1606613598895	geckodriver	INFO	Listening on 127.0.0.1:62545
+1606613599913	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wv/h2__2b1x72v2mlyybzp3l72r0000gn/T/rust_mozprofilejw2V5h"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606613601925	Marionette	INFO	Listening on port 62556
+1606613601982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/8ahrj4ssfil4clfbla970vd53, line 17644: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/8ahrj4ssfil4clfbla970vd53, line 17644: unreachable code after return statement
+1606614025564	Marionette	INFO	Stopped listening on port 62556
+1606614028591	Marionette	INFO	Stopped listening on port 62360
+1606614036631	Marionette	INFO	Stopped listening on port 62160
+1606614043572	Marionette	INFO	Stopped listening on port 62062
+1606614170175	geckodriver	INFO	Listening on 127.0.0.1:62728
+1606614171192	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wv/h2__2b1x72v2mlyybzp3l72r0000gn/T/rust_mozprofileTuI6tu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606614173189	Marionette	INFO	Listening on port 62739
+1606614173257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/8ahrj4ssfil4clfbla970vd53, line 17644: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+Handler function _httpStopRequest threw an exception: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsITraceableChannel.setNewListener]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _setupResponseListener :: line 1085"  data: no]
+Stack: _setupResponseListener@resource://devtools/server/actors/network-monitor/network-observer.js:1085:38
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:911:12
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:409:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1085, column: 0
+console.error: ({})
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/8ahrj4ssfil4clfbla970vd53, line 17644: unreachable code after return statement
+1606615853885	Marionette	INFO	Stopped listening on port 62739
+1606679144566	geckodriver	INFO	Listening on 127.0.0.1:64324
+1606679145571	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wv/h2__2b1x72v2mlyybzp3l72r0000gn/T/rust_mozprofileT0Jlnb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606679148367	Marionette	INFO	Listening on port 64337
+1606679148463	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/8ahrj4ssfil4clfbla970vd53, line 17644: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.linkedin.com"
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/8ahrj4ssfil4clfbla970vd53, line 17644: unreachable code after return statement
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1606679527658	geckodriver	INFO	Listening on 127.0.0.1:64476
+1606679527670	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/wv/h2__2b1x72v2mlyybzp3l72r0000gn/T/rust_mozprofileOg0vqF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606679529581	Marionette	INFO	Listening on port 64485
+1606679529625	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 190: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 235}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/8ahrj4ssfil4clfbla970vd53, line 17644: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+JavaScript warning: https://static-exp1.licdn.com/sc/h/br/6amzwtkgya07vjyqmjd2954ua, line 2726: unreachable code after return statement
+1606679566957	Marionette	INFO	Stopped listening on port 64485
